@@ -1,0 +1,2 @@
+# T20-WC-2024
+EDA of T20 WC 2024 Dataset
